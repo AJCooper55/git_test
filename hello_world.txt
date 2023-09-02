@@ -1,1 +1,4 @@
 Testing for the staging area/Github
+
+
+Now testing commit via VSCode
